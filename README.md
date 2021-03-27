@@ -1,2 +1,2 @@
-# Class-39
-Real car racing
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
